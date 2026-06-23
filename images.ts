@@ -1,0 +1,17 @@
+export const IMG = {
+  surgeryTeam: "https://images.unsplash.com/photo-1579154491781-5e199df316aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1600",
+  surgeryWide: "https://images.unsplash.com/photo-1504439468489-c8920d796a29?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1600",
+  surgeryLight: "https://images.unsplash.com/photo-1758653500015-e97176428d46?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1200",
+  microscope: "https://images.unsplash.com/photo-1766315746079-215ff5115e9f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1200",
+  corridor: "https://images.unsplash.com/photo-1777269749032-d8d458ae594d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1600",
+  corridorLight: "https://images.unsplash.com/photo-1779062553594-7c84878a9266?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1600",
+  medicalProfessionals: "https://images.unsplash.com/photo-1504813184591-01572f98c85f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1600",
+  teamMeeting: "https://images.unsplash.com/photo-1681949287382-052ea3954a51?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1600",
+  teamSofa: "https://images.unsplash.com/photo-1758518725921-1eb74ed293be?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1600",
+  teamLaptops: "https://images.unsplash.com/photo-1774600134168-b9ebd714e4e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1600",
+  dashboardAnalytics: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1400",
+  monitorScreen: "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1400",
+  portraitWoman: "https://images.unsplash.com/photo-1594824476967-48c8b964273f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=600",
+  portraitDoctor: "https://images.unsplash.com/photo-1622253694238-3b22139576c6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=600",
+  portraitMan: "https://images.unsplash.com/photo-1550831106-0994fe8abcfe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=600",
+};
