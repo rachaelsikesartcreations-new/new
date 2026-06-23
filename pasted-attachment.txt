@@ -1,0 +1,97 @@
+Build the first full draft of a marketing homepage for RepWallet. Desktop and mobile. This is a real first draft, build every section below in order.
+
+=== PRODUCT CONTEXT ===
+RepWallet is a credential management app for medical device sales reps. Before a rep is allowed into a hospital operating room they must be credentialed: vaccinations, HIPAA training, background checks, liability insurance, and more, spread across 4 to 5 fragmented platforms (symplr, GHX Vendormate, HealthTrust, ORtrax). RepWallet is one portable vault plus a live compliance dashboard with LifeLock-style monitoring. Real MVP features: credential dashboard with green/amber/red status, portable document vault with AI metadata extraction, AI document pre-screening, smart expiration alerts (60/30/7 day), one-tap platform access, and a document scanner. Audience: medical device reps first, hospital credentialing managers second, partnership and investor viewers third.
+
+=== BRAND VOICE ===
+Clinical, confident, trustworthy. Closer to medical-device or hospital software than a consumer app. Clear, not cute. The audience is sophisticated and time-pressed, so clarity beats flash.
+
+=== DO NOT (anti-generic) ===
+No generic blue SaaS template. No Linear-clone hero. No wall of equal drop-shadow cards. No logo wall. No two-tone split-color headline. No healthcare stock photography. Visual references for the bar to clear: Stripe (whitespace and product storytelling), Linear (typographic restraint), Okta (infrastructure confidence), CertifyOS and Athenahealth (healthcare credibility), Ramp (premium polish).
+
+=== NAVIGATION / IA ===
+Top nav: Home, Platform, For Reps, For Partners, Resources, Company. Right side: Log in, Request a Demo (primary button).
+Footer: same nav expanded, plus Privacy Policy, Terms of Service, HIPAA Notice.
+
+=== TYPOGRAPHY ===
+Inter throughout (use "Semi Bold" with a space, not "SemiBold").
+Hero headline 56 to 64px, Bold, line-height 1.05. Section headers 36 to 40px Semi Bold. Subheads 20 to 24px. Body 16 to 18px, line-height 1.6, Regular. Eyebrow labels 12 to 13px, uppercase, letter-spacing 0.08em.
+
+=== COLOR (provisional, navy system) ===
+Primary Navy #1F4E79 (anchors the majority of authority). Secondary Blue #32699A. Accent Sky Blue #60A9E9 (used sparingly, mostly for motion/hover/connection visuals). Background White #FFFFFF dominant. Do not overuse bright blue.
+Status colors (the signature system): green #2E9E72 compliant, amber #E08A2B expiring soon, red #C0432F blocked. Use these as the visual language across hero cards, the workflow timeline, and the ecosystem.
+
+=== GLOBAL LAYOUT ===
+De-framed and whitespace-driven. Let space create separation, not boxes. Containers only where they carry meaning (the phone, an AI message). Vary the vertical rhythm: large breathing room after the hero, compress the supporting modules, large room again before the AI section. Mobile-first product, so the phone UI is the centerpiece. Background contrast flow: light hero, light workflow, soft neutral ecosystem, dark immersive AI section, light newsroom, dark final CTA.
+
+=== SECTIONS ===
+
+1. HERO (light)
+Eyebrow: BUILT FOR MEDICAL DEVICE REPS
+Headline: Everything you need, before every case.
+Subcopy: The operational system medical device reps rely on to stay prepared, get access, and show up ready, every time.
+CTAs: Request a Demo (primary), See How It Works (secondary with play icon).
+Trust line, NO company logos: "Built to work with the platforms reps already use."
+Right side: large floating iPhone showing the app dashboard:
+  - "9:41" status bar
+  - "Good morning, Alex" / "You have 2 cases today"
+  - NEXT CASE: 8:00 AM Ortho Procedure, Memorial Hospital, "View case details"
+  - CREDENTIALS: green check, "All credentials verified", "You're cleared for 3 facilities"
+  - quick tiles: Calendar, Hospital Access, Messages, Prep Notes, AI Assistant, More
+  - bottom bar: AI Assistant, "3 new suggestions"
+Floating status cards around the phone, connected by thin lines into it:
+  - Facility Access Approved, Memorial Hospital, 7:28 AM (green)
+  - Credential Expiring in 7 Days, BLS Certification, May 22 (amber)
+  - Case Added to Calendar, 8:00 AM, May 15
+  - AI Follow-Up Generated, Memorial Hospital, 7:45 AM
+
+2. WORKFLOW (light): "Your entire workflow, before every case."
+Horizontal 6-step timeline, each node carries a status dot, on open background not in a bordered box:
+  1 Credentials Verified, "Stay up to date and ready to go."
+  2 Hospital Access Approved, "Get approved at every facility you need."
+  3 Case Scheduled, "See your day, week, and what's ahead."
+  4 Prep Notes Ready, "All the info you need, organized for you."
+  5 Messaging Synced, "Communicate and coordinate instantly."
+  6 AI Follow-Ups Generated, "Never miss a follow-up. AI has your back."
+
+3. OPERATIONAL COMMAND CENTER (soft neutral)
+Eyebrow: ONE PLATFORM. EVERYTHING CONNECTED.
+Header: Your operational command center.
+Centered phone, modules connected by thin lines radiating out (NOT boxed feature cards):
+  Credentials, "Keep everything up to date and expiration-proof."
+  Hospital Access, "Get approved at the facilities you need, faster."
+  Scheduling, "See your cases, meetings, and tasks in one place."
+  Prep & Notes, "All your case prep info, organized and easy to find."
+  Messaging, "Secure team communication that keeps everyone aligned."
+  Reports & Insights, "Track activity and prove your impact with real data."
+Phone shows a stat strip: Cases Today 2, Credentials 3 expiring, Facility Access 5 approved, Follow-Ups 4 pending, plus today's schedule.
+
+4. REPS vs PARTNERS SPLIT (two panels)
+FOR REPS (warmer, human): "Stay organized. Save time. Win more." Sub: "RepWallet helps you eliminate busywork, stay prepared, and show up ready for every case." Bullets: Everything before every case, in one app; Less admin, more time with customers; Stay compliant and case-ready, always. Link: Learn more for reps.
+FOR PARTNERS (cooler, infrastructural): "Stronger compliance. Seamless collaboration. Better outcomes." Sub: "RepWallet helps healthcare organizations streamline access, ensure compliance, and improve operational efficiency." Bullets: Real-time visibility and control; Interoperable and easy to integrate; Built for healthcare compliance. Link: Learn more for partners. Do not invent statistics or charts here; if a metric is shown, label it illustrative.
+
+5. AI ASSISTANT (dark immersive)
+Eyebrow: AI THAT WORKS FOR YOU
+Header: Your AI assistant, always working behind the scenes.
+Four items: Smart Reminders ("Never miss a follow-up or expiration"), Follow-Up Generation ("AI drafts personalized follow-ups for you"), Priority Insights ("Focus on what matters most today"), Workflow Automation ("Less manual work, more time for customers").
+One assistant message card: "You have 3 facilities requiring updated credentials." with a Review Now button and "3 new suggestions." Calm and operational, not AI hype.
+
+6. INTEGRATIONS (light): "Built to connect."
+A connected ecosystem diagram with RepWallet at the center and lines radiating to platform nodes, NOT a logo wall. Present every platform as something RepWallet works alongside or is building toward. Do not present any company as a current partner, customer, or endorser.
+
+7. NEWSROOM (light): "Latest from RepWallet."
+Editorial Stripe/Linear newsroom style. Use placeholder article cards only (Product Update, Blog, Company). Do NOT fabricate funding announcements, press, partnerships, or user counts. Newsletter signup: "Stay updated with RepWallet."
+
+8. FINAL CTA (dark)
+"Ready before every case?" with short operational subcopy. Buttons: Request a Demo (primary), Partner With Us (secondary).
+
+=== MOTION (restrained, premium, transform/opacity only, honor reduced-motion) ===
+Hero: cards drift on slow staggered loops (translateY 6 to 8px, 6 to 10s). Connection lines pulse from each card into the phone every 2 to 3s at low opacity. Light cursor parallax with depth, phone moves least, disabled on touch. Hero scales and fades slightly on scroll handoff.
+Workflow: connecting line draws left to right on scroll-in, steps rise and fade in with one soft status pulse, staggered ~120ms, runs once.
+Ecosystem: lines draw then loop a gentle pulse. Hover a module to lift it and highlight its line.
+AI: the assistant message reveals as streaming text. Background glow breathes slowly.
+Newsroom and buttons: hover under 200ms, arrows nudge right, status chips pulse once on scroll-in.
+Mobile: vertical timeline stack, no parallax, reduced motion, CTA always visible.
+
+=== CONTENT ACCURACY (non-negotiable) ===
+No partner, customer, or investor logos presented as endorsements. No fabricated funding, press, awards, or "thousands of users" claims. No invented performance statistics. Present any forward-looking capability as the product vision, not as a shipped feature.
